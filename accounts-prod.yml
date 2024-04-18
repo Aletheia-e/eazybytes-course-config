@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod webhook test 9 APIs "
+  message: "Welcome to EazyBank accounts related prod webhook test 10 APIs "
   contactDetails:
     name: "Aletheia Eden - PO"
     email: "{cipher}b9dbd86e239e753c1c888c652b8d52544f4a43f0c55ac180e813c166f9cac75ddaba87614b58cbccca3997a45a9ef2a0"
