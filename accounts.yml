@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs "
+  message: "Welcome to EazyBank accounts related docker APIs "
   contactDetails:
-    name: "Aletheia Eden - DevOps"
-    email: "aletheia .com"
+    name: "Aletheia E. - DevOps"
+    email: "aletheia@E.test"
   onCallSupport:
     - (555) 555-1234
     - (888) 523-1345
